@@ -1,0 +1,15 @@
+h1{
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    border-left-style: double;
+    border-left-color: black;
+    border-left-width:2px ;
+
+}
+p{
+ border-width: 5px;
+    border-style: dashed;
+    border-color: blue;
+    border-radius: 10px;
+    padding: 5px;
+}
