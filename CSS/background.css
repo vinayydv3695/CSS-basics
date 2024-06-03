@@ -1,0 +1,22 @@
+body {
+    background: 
+        linear-gradient(skyblue, green),
+        url(bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-blend-mode: overlay; 
+}
+
+h1 {
+    background: linear-gradient(to right, skyblue, green); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p {
+    background: linear-gradient(to left, skyblue, green);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

@@ -12,7 +12,7 @@ header {
 }
 
 nav ul {
-    list-style: none;
+    list-style: -webkit-radial-gradient();
     margin: 0;
     padding: 0;
     display: flex;
