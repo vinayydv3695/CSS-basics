@@ -1,0 +1,29 @@
+#box1{
+    height: 200px;
+    width: 200px;
+    border: 1px;
+    font-size: 50px;
+    text-align: center;
+    background: chocolate;
+float:inline-end
+}
+
+#box2{
+    height: 200px;
+    width: 200px;
+    border: 1px;
+    font-size: 50px;
+    text-align: center;
+    background: chocolate;
+float:inline-end
+}
+
+#box3{
+    height: 200px;
+    width: 200px;
+    border: 1px;
+    font-size: 50px;
+    text-align: center;
+    background: chocolate;
+float:inline-end
+}
